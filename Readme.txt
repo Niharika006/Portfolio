@@ -1,6 +1,8 @@
 # 🌐 Portfolio Website
 
-Welcome to my personal portfolio website! This project showcases my background, assignments, and web development skills using HTML, CSS, and JavaScript. It’s fully responsive and designed with a clean, modern layout.
+Welcome to my personal portfolio website! This project showcases my background, assignments, and web development skills using **HTML**, **CSS**, and **JavaScript**. It’s fully responsive and designed with a clean, modern layout.
+
+---
 
 ## 📁 Files Included
 
@@ -8,9 +10,13 @@ Welcome to my personal portfolio website! This project showcases my background, 
 - `style.css` – Styling and layout (CSS)
 - `main.js` – Interactive elements (JavaScript)
 
+---
+
 ## 🔗 Live Preview
 
 👉 [View Portfolio Live](https://niharika006.github.io/Portfolio/)
+
+---
 
 ## ✨ Features
 
@@ -19,13 +25,16 @@ Welcome to my personal portfolio website! This project showcases my background, 
 - **Assignments Section** – Showcases assignments across web development, CAD, and more
 - **Contact Section** – Quick way to reach me via email or phone
 
+---
+
 ## 📬 Contact
 
-Feel free to connect with me through the contact section in the portfolio or reach out via GitHub.
+Feel free to connect with me through the contact section in the portfolio or reach out via [GitHub](https://github.com/niharika006).
 
 ---
 
-> Built with 💻 using HTML, CSS & JavaScript
+> Built with 💻 using **HTML**, **CSS** & **JavaScript**
+
 
 
 
